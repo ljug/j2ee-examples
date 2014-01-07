@@ -1,3 +1,4 @@
-/secuGlassfish/nbproject/private/
-/smb214-1/dist/
-/secuTomcat/nbproject/private/
+build/
+dist/
+private/
+
