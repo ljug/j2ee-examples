@@ -12,10 +12,9 @@
         ${request.getUserPrincipal().getName()}
         <br/>
         <%=request.getRemoteUser()%>
-        
-        ${request.isUserInRole("manager-gui")}
+        <%=request.isUserInRole("manager-gui") %>
           
-        <h1>Hello ....!</h1>       
+        <h1>Hello World!</h1>       
          <br/>
          Toto est ${b.toto} 
          <br/>
