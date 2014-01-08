@@ -15,6 +15,7 @@
         <auth-constraint>
             <description>The manger</description>
             <role-name>manager-gui</role-name>
+            <role-name>chef</role-name>
         </auth-constraint>
     </security-constraint>
     <login-config>
@@ -24,5 +25,9 @@
     <security-role>
         <description>The manger for testing</description>
         <role-name>manager-gui</role-name>
+    </security-role>
+    <security-role>
+        <description/>
+        <role-name>chef</role-name>
     </security-role>
 </web-app>
