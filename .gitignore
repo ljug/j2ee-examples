@@ -1,2 +1,3 @@
-/simpleHello/nbproject/private/
-/simpleHello/build/
+build/
+dist/
+private/
