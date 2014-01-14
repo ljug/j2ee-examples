@@ -41,7 +41,7 @@ public class HelloBean {
         if ("".equals(name) || name == null) {
             return "";
         } else {
-            return "Les messafe Ajax : Bonjour " + name;
+            return "Les messages Ajax : Bonjour " + name;
         }
     }
 
