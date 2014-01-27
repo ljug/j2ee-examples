@@ -1,0 +1,3 @@
+[submodule "netbeansAndGlassfish"]
+	path = netbeansAndGlassfish
+	url = git@github.com:ljug/netbeansAndGlassfish.git
